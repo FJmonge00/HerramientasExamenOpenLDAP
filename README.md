@@ -33,6 +33,6 @@
 `ldapsearch -LL -x -b "uid=elpepe,ou=people,dc=megainfo211,dc=com"`
 
 
-### VER LISTADO DE ARIBUTOS
+### VER LISTADO DE ARIBUTOS LDIF
 
 [Listado de Atributos LDIF](https://www.zytrax.com/books/ldap/ape/)
