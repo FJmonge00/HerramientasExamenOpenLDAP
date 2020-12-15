@@ -1,0 +1,15 @@
+dn: uid=alopez,ou=people,dc=megainfo211,dc=com
+changetype: modify
+replace: homeDirectory
+homeDirectory: /home/nfs/Adrian
+
+dn: uid=mdominguez,ou=people,dc=megainfo211,dc=com
+changetype: modify
+replace: homeDirectory
+homeDirectory: /home/nfs/Maria
+
+dn: uid=lperez,ou=people,dc=megainfo211,dc=com
+changetype: modify
+replace: homeDirectory
+homeDirectory: /home/nfs/Luisa
+

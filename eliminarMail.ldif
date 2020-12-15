@@ -1,0 +1,4 @@
+dn: uid=elpepe,ou=people,dc=megainfo211,dc=com
+changetype: modify
+delete: mail
+

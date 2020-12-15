@@ -1,0 +1,4 @@
+dn: uid=juan,ou=people,dc=megainfo211,dc=com
+changetype: modify
+replace: homeDirectory
+homeDirectory: /home/nfs/juan
