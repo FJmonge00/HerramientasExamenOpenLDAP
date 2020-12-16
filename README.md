@@ -1,12 +1,12 @@
 # Herramietas Examen LDIF
 
-## [1.- Crear Base.](LDIF/base.ldif)
-## [2.- Modelo Crear Usuario.](LDIF/juan.ldif)
-## [3.- Mofificacion de usuario.](LDIF/CambioJuan.ldif)
-## [4.- Mofificacion varios usuarios.](LDIF/modificacion.ldif)
-## [5.- Eliminar Campos.](LDIF/eliminarMail.ldif)
-## [6.- Prepararaciones para un cliente.](variado/CapturasExportaciones/)
-## [7.- Ver Configuraciones de NFS y compartir directorios IMAGENES.](LDIF/eliminarMail.ldif)
+## [1.- Crear Base.](./LDIF/base.ldif)
+## [2.- Modelo Crear Usuario.](./LDIF/juan.ldif)
+## [3.- Mofificacion de usuario.](./LDIF/CambioJuan.ldif)
+## [4.- Mofificacion varios usuarios.](./LDIF/modificacion.ldif)
+## [5.- Eliminar Campos.](./LDIF/eliminarMail.ldif)
+## [6.- Prepararaciones para un cliente.](./variado/preparandoCliente.md)
+## [7.- Ver Configuraciones de NFS y compartir directorios IMAGENES.](./variado/CapturasExportaciones/)
 ## BASH:
 > [!IMPORTANT]
 > Hay que tener en cuenta que para los ejemplos de los siguientes comandos
