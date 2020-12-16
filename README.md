@@ -5,8 +5,8 @@
 ## [3.- Mofificacion de usuario.](LDIF/CambioJuan.ldif)
 ## [4.- Mofificacion varios usuarios.](LDIF/modificacion.ldif)
 ## [5.- Eliminar Campos.](LDIF/eliminarMail.ldif)
-## [6.- Prepararaciones para un cliente.](LDIF/eliminarMail.ldif)
-## [6.- Ver Configuraciones de NFS y compartir directorios IMAG.](LDIF/eliminarMail.ldif)
+## [6.- Prepararaciones para un cliente.](variado/CapturasExportaciones/)
+## [7.- Ver Configuraciones de NFS y compartir directorios IMAGENES.](LDIF/eliminarMail.ldif)
 ## BASH:
 > [!IMPORTANT]
 > Hay que tener en cuenta que para los ejemplos de los siguientes comandos
