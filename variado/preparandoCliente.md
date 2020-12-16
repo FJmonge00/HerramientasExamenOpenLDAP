@@ -22,5 +22,5 @@
 > [!IMPORTANT]
 > En el cliente será necesario configurar e instalar los paquetes necesarios
 
-*[Ver Configuración del Cliente...](./configurarCliente)*
+*Ver Configuración del Cliente... USB TOSHIBA*
 
