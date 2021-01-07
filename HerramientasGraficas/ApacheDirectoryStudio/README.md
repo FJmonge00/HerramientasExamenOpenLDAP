@@ -13,7 +13,7 @@
 
 ### Descomprimimos
 
-``tar zvxf ApacheDirectoryStudio-2.0.0.v20200411-M15-linux.gtk.x86_64.tar.gz``
+``tar -zvxf ApacheDirectoryStudio-2.0.0.v20200411-M15-linux.gtk.x86_64.tar.gz``
 
 Cambiamos permisos y propitarios sobre el directorio de trabajo de Apache Directory Studio
 
@@ -43,16 +43,16 @@ Cambiamos permisos y propitarios sobre el directorio de trabajo de Apache Direct
 
 ### Creamos la conexión con servidor LDAP
 
-![Conexion](../imagenes/conexion.png)
+![Conexion](../../imagenes/conexion.png)
 
-![Conexion2](../imagenes/conexion2.png)
+![Conexion2](../../imagenes/conexion2.png)
 
-![Conexion3](../imagenes/conexion3.png)
+![Conexion3](../../imagenes/conexion3.png)
 
-![Conexion4](../imagenes/conexion4.png)
+![Conexion4](../../imagenes/conexion4.png)
 
-![Conexion5](../imagenes/conexion5.png)
+![Conexion5](../../imagenes/conexion5.png)
 
-*[Algunas capturas varias de como crear entradas...](../imagenes/capturas)*
+*[Algunas capturas varias de como crear entradas...](../../imagenes/capturas)*
 _________________________________________________
-*[Volver al indice...](../README.md)*
+*[Volver al indice...](../../README.md)*
