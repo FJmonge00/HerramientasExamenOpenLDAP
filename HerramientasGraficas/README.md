@@ -53,3 +53,6 @@ Cambiamos permisos y propitarios sobre el directorio de trabajo de Apache Direct
 
 ![Conexion5](../imagenes/conexion5.png)
 
+*[Algunas capturas varias de como crear entradas...](../imagenes/capturas)*
+_________________________________________________
+*[Volver al indice...](../README.md)*

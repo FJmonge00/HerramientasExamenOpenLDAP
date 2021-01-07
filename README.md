@@ -37,7 +37,3 @@
 ### VER LISTADO DE ARIBUTOS LDIF
 
 [Listado de Atributos LDIF](https://www.zytrax.com/books/ldap/ape/)
-
-*[Algunas capturas varias de como crear entradas...](../imagenes/capturas)*
-_________________________________________________
-*[Volver al indice...](../README.md)*
