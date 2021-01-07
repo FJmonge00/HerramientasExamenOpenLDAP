@@ -1,7 +1,7 @@
 dn: ou=people,dc=megainfo211,dc=com
-ou: people
 ObjectClass: top
 ObjectClass: organizationalUnit
+ou: people
 
 dn: ou=group,dc=megainfo211,dc=com
 ObjectClass: top
