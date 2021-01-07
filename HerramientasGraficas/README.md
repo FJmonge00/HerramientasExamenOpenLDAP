@@ -40,3 +40,16 @@ Cambiamos permisos y propitarios sobre el directorio de trabajo de Apache Direct
 **Listo**
 
 ## Configuración Apache Directory Studio (Gráfico)
+
+### Creamos la conexión con servidor LDAP
+
+![Conexion](../imagenes/conexion.png)
+
+![Conexion2](../imagenes/conexion2.png)
+
+![Conexion3](../imagenes/conexion3.png)
+
+![Conexion4](../imagenes/conexion4.png)
+
+![Conexion5](../imagenes/conexion5.png)
+
