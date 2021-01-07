@@ -7,7 +7,7 @@
 ## [5.- Eliminar Campos.](./LDIF/eliminarMail.ldif)
 ## [6.- Prepararaciones para un cliente.](./variado/preparandoCliente.md)
 ## [7.- Ver Configuraciones de NFS y compartir directorios IMAGENES.](./variado/CapturasExportaciones/)
-## [8.- Herramientas Graficas.](./HerramientasGradicas)
+## [8.- Herramientas Graficas.](./HerramientasGraficas)
 ## BASH:
 > [!IMPORTANT]
 > Hay que tener en cuenta que para los ejemplos de los siguientes comandos
