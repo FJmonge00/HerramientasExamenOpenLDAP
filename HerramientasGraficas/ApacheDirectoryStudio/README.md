@@ -1,4 +1,4 @@
-<img src="./imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
+<img src="../../imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
 
 # Instalación Apache Directory Studio
 [Link a Apache Directory Studio](https://directory.apache.org/studio/download/download-linux.html)
