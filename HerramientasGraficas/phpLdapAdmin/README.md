@@ -70,4 +70,6 @@ A la hora de crear el usuario tendremos que elegir como loginShell "/bin/sh" ten
 
 *Otras posibles actulizaciones o entradas documento Moodle*
 _________________________________________________
-*[Volver atrás...](../README.md)*        *[Volver al indice pincipal...](../../README.md)*
+*[Volver atrás...](../README.md)*
+
+*[Volver al indice pincipal...](../../README.md)*
