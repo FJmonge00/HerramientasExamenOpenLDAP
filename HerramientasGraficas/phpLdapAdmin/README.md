@@ -1,5 +1,7 @@
 <img src="../../imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
 
+<img src="../../imagenes/logophpldap.png" />
+
 # Instalación phpLDAPadmin
 [Link de debian.org para el .deb de phpLDAPadmin](https://packages.debian.org/sid/all/phpldapadmin/download)
 ## Como Root
