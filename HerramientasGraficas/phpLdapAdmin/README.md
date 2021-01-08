@@ -1,3 +1,5 @@
+<img src="./imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
+
 # Instalación phpLDAPadmin
 [Link de debian.org para el .deb de phpLDAPadmin](https://packages.debian.org/sid/all/phpldapadmin/download)
 ## Como Root
@@ -66,4 +68,4 @@ A la hora de crear el usuario tendremos que elegir como loginShell "/bin/sh" ten
 
 *Otras posibles actulizaciones o entradas documento Moodle*
 _________________________________________________
-*[Volver al indice...](../../README.md)*
+*[Volver atrás...](../README.md)* *[Volver al indice pincipal...](../../README.md)*

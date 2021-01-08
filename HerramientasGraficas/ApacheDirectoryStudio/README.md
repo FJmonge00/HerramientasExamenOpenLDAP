@@ -1,3 +1,5 @@
+<img src="./imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
+
 # Instalación Apache Directory Studio
 [Link a Apache Directory Studio](https://directory.apache.org/studio/download/download-linux.html)
 ## Como Root
@@ -55,4 +57,4 @@ Cambiamos permisos y propitarios sobre el directorio de trabajo de Apache Direct
 
 *[Algunas capturas varias de como crear entradas...](../../imagenes/capturas)*
 _________________________________________________
-*[Volver al indice...](../../README.md)*
+*[Volver atrás...](../README.md)* *[Volver al indice pincipal...](../../README.md)*

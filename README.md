@@ -1,3 +1,5 @@
+<img src="./imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
+
 # Herramietas Examen LDIF
 
 ## [1.- Crear Base.](./LDIF/base.ldif)
