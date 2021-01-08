@@ -1,5 +1,5 @@
 # Instalación phpLDAPadmin
-[Link de debian.org para el .deb de phpLDAPadmin](https://directory.apache.org/studio/download/download-linux.html)
+[Link de debian.org para el .deb de phpLDAPadmin](https://packages.debian.org/sid/all/phpldapadmin/download)
 ## Como Root
 
 ### Instalamos MariaDB, Apache y PHP
