@@ -56,6 +56,14 @@
 
 ## Crear entradas (Gráfico)
 
-<!-- *[Algunas capturas varias de como crear entradas...](../../imagenes/capturas)* -->
+### Usuarios
+
+*Crear nuevo objeto > Generico: Cuenta de usuario*
+
+A la hora de crear el usuario tendremos que elegir como loginShell "/bin/sh" tendremos que modificarlo
+
+*Selleccionamos usuario > Cambiar Plantilla > loginShell*
+
+*Otras posibles actulizaciones o entradas documento Moodle*
 _________________________________________________
 *[Volver al indice...](../../README.md)*
