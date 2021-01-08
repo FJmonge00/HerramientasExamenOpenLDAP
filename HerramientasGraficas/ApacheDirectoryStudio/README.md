@@ -1,4 +1,4 @@
-# Apache Directory Studio
+# Instalación Apache Directory Studio
 [Link a Apache Directory Studio](https://directory.apache.org/studio/download/download-linux.html)
 ## Como Root
 ### Creamos Directorio de trabajo

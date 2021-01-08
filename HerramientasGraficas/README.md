@@ -1,7 +1,7 @@
 # Herramietas Gráficas
 
-## [1.- Apache Directory Studio.](./ApacheDirectoryStudio)
-<!-- ## [2.- PhpldapAdmin.](./phpldapadmin/ -->
-<!-- ## [3.- Ejemplo.](./LDIF/CambioJuan.ldif) -->
+## [1.- Apache Directory Studio.](./apacheDirectoryStudio)
+## [2.- phpLDAPadmin.](./phpLdapAdmin)
+<!-- ## [3.- Ejemplo.](./pgina/ds.ldif) -->
 _________________________________________________
 *[Volver al indice...](../README.md)*
