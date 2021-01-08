@@ -59,4 +59,4 @@ Cambiamos permisos y propitarios sobre el directorio de trabajo de Apache Direct
 
 *[Algunas capturas varias de como crear entradas...](../../imagenes/capturas)*
 _________________________________________________
-*[Volver atrás...](../README.md)* *[Volver al indice pincipal...](../../README.md)*
+*[Volver atrás...](../README.md)*        *[Volver al indice pincipal...](../../README.md)*
