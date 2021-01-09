@@ -3,7 +3,7 @@
 <img src="../../imagenes/logoJxplorer.png" />
 
 # Instalación phpLDAPadmin
-[Link de debian.org para el .deb de phpLDAPadmin](https://packages.debian.org/sid/all/phpldapadmin/download)
+[Link a Web oficial de Jxplorer](http://jxplorer.org)
 ## Como Root
 
 ### Instalamos MariaDB, Apache y PHP
@@ -31,7 +31,7 @@ No se puede ejecutar como root (Debian 10)
 
 ### Conexión a OpenLDAP (Gráfico)
 
-![Conexion](../../imagenes/jxplorerConexion.png)
+![Conexion](../../imagenes/jxplorerConexion.jpg)
 
 ### Crear un usuario (Gráfico)
 
