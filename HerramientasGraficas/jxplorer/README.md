@@ -19,6 +19,7 @@
 **¡Ojo! También podemos intalar una versión específica...**
 
 **apt install openjdk-11-jdk**
+
 **apt install openjdk-11-jre**
 
 ``apt install jxplorer -y``
