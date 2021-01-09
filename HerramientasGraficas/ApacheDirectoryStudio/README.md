@@ -29,6 +29,13 @@ Cambiamos permisos y propitarios sobre el directorio de trabajo de Apache Direct
 
 ``apt install default-jdk``
 
+``apt install default-jre``
+
+**¡Ojo! También podemos intalar una versión específica...**
+
+**apt install openjdk-11-jdk**
+**apt install openjdk-11-jre**
+
 ## Sin privilegios de root
 
 ### Comprobamos que tengamos privilegios necesarios
