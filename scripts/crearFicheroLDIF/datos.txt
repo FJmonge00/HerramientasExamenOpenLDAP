@@ -1,0 +1,4 @@
+Rosa,CarmonaSanchez,rcarmona@gmail.com,imagenes/rosa.jpg,rcarmona
+Adrian,LopezSuarez,alopez@gmail.com,imagenes/adrian.jpg,alopez
+Maria,DominguezHuertas,mdominguez,imagenes/maria.jpg,mdominguez
+Luisa,PerezGonzalez,lperez@gmail.com,imagenes/luisa.jpg,lperez

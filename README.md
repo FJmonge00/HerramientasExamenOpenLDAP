@@ -10,6 +10,7 @@
 ## [6.- Preparaciones para un cliente.](./variado/preparandoCliente.md)
 ## [7.- Ver Configuraciones de NFS y compartir directorios IMAGENES.](./variado/CapturasExportaciones/)
 ## [8.- Herramientas Gráficas.](./HerramientasGraficas)
+## [9.- Scripting LDAP.](./scripts)
 ## BASH:
 > [!IMPORTANT]
 > Hay que tener en cuenta que para los ejemplos de los siguientes comandos
