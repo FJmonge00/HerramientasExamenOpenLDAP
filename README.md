@@ -17,7 +17,7 @@
 > usaré mi dominio de pruebas megainfo211.com
 ### Añadir datos a OpenLDAP desde fichero LDIF:
 
-`ldapadd -x -W -D cd=admin,dc=megainfo211,dc=com -f base.ldif`
+`ldapadd -x -W -D cn=admin,dc=megainfo211,dc=com -f base.ldif`
 
 > [!TIP]
 > Para evitar posibles errores declaramos una variable con el nombre dn Ej: miServer="cn=admin,dc=megainfo211,dc=com"
