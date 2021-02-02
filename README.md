@@ -4,13 +4,14 @@
 
 ## [1.- Crear Base.](./LDIF/base.ldif)
 ## [2.- Modelo Crear Usuario.](./LDIF/juan.ldif)
-## [3.- Modificación de usuario.](./LDIF/CambioJuan.ldif)
-## [4.- Modificación varios usuarios.](./LDIF/modificacion.ldif)
-## [5.- Eliminar Campos.](./LDIF/eliminarMail.ldif)
-## [6.- Preparaciones para un cliente.](./variado/preparandoCliente.md)
-## [7.- Ver Configuraciones de NFS y compartir directorios IMAGENES.](./variado/CapturasExportaciones/)
-## [8.- Herramientas Gráficas.](./HerramientasGraficas)
-## [9.- Scripting LDAP.](./scripts)
+## [2.- Crear Grupos.](./LDIF/sistemas.ldif)
+## [4.- Modificación de usuario.](./LDIF/CambioJuan.ldif)
+## [5.- Modificación varios usuarios.](./LDIF/modificacion.ldif)
+## [6.- Eliminar Campos.](./LDIF/eliminarMail.ldif)
+## [7.- Preparaciones para un cliente.](./variado/preparandoCliente.md)
+## [8.- Ver Configuraciones de NFS y compartir directorios IMAGENES.](./variado/CapturasExportaciones/)
+## [9.- Herramientas Gráficas.](./HerramientasGraficas)
+## [10.- Scripting LDAP.](./scripts)
 ## BASH:
 > [!IMPORTANT]
 > Hay que tener en cuenta que para los ejemplos de los siguientes comandos
