@@ -16,6 +16,10 @@
 > [!IMPORTANT]
 > Hay que tener en cuenta que para los ejemplos de los siguientes comandos
 > usaré mi dominio de pruebas megainfo211.com
+### Contraseñas:
+
+`slappasswd -h {MD5}`
+
 ### Añadir datos a OpenLDAP desde fichero LDIF:
 
 `ldapadd -x -W -D cn=admin,dc=megainfo211,dc=com -f base.ldif`
